@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Screen shots
 
-![Alt text](/imgsrc/screen.png?raw=true)
+![Alt text](src/img/screen.png?raw=true)
